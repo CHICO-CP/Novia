@@ -39,7 +39,7 @@ Animated hearts: They are generated automatically and disappear after 5 seconds.
 ## Technologies
 
 HTML
-CSS3
+CSS
 JavaScript
 
 ## License
